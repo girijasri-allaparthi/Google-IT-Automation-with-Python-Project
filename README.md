@@ -2,6 +2,6 @@ Project Description:This project is to develop a system that will update the cat
 changeImage.py script converts .tiff format files to smaller .jpeg images.
 supplier_image_upload.py uploads the processes images to the webserver fruit catalog.
 run.py script uploads the product descriptions that read from .txt files.
-reports.py generates the pdf report of fruit and taotal weight of the fruit that were uploaded.
+reports.py generates the pdf report of fruit and total weight of the fruit that were uploaded.
 report_email.py sends an email to the supplier with the pdf attached.
 health_check.py monitors CPU usage, disk space, available memory and name resolution and sends an email if there is a problem.
